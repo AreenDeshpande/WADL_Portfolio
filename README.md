@@ -1,6 +1,6 @@
 # Portfolio Project
 
-## Assignment 1 - Simple Portfolio
+## WADL Assignment  - Simple Portfolio
 
 This repository contains a simple portfolio website built with **HTML** and **CSS** as part of Assignment 1. The project showcases basic web development skills including responsive design, navigation, and a contact section.
 
