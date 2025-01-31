@@ -1,0 +1,11 @@
+.projects .box {
+    background: #e8f0fe;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.projects a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}

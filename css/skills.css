@@ -1,0 +1,8 @@
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+.skills li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
